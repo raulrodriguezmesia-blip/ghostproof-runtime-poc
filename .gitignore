@@ -1,0 +1,9 @@
+﻿*.exe
+*.o
+*.obj
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+.aitk/
+.agents/
